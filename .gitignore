@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 *.pyo
 frontend/node_modules/
-.vscode/
+.vscode/git rm -r --cached .vscode

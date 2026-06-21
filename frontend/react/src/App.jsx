@@ -1,20 +1,18 @@
-
-
-
-
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import HomePage from './pages/HomePage'
-import Navbar from './pages/navbar'
-import Footer from './pages/footer'
+import StatePage from './pages/StatePage'
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 function App() {
   return (
     <BrowserRouter>
-    <Navbar />
+      <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
+        <Route path="/state/:slug" element={<StatePage />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </BrowserRouter>
   )
 }

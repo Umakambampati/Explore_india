@@ -14,24 +14,42 @@ function HomePage() {
 
   return (
     <div className="max-w-6xl mx-auto px-4">
-      <section className="text-center py-12">
-        <h1 className="text-4xl font-bold text-gray-800">Discover Incredible India</h1>
-        <p className="text-gray-500 mt-2">Explore states, places, food and more</p>
+
+      {/* Hero Section */}
+      <section className="text-center py-16">
+        <h1 className="text-5xl font-bold text-gray-800">
+          Discover <span className="text-orange-500">Incredible India</span>
+        </h1>
+        <p className="text-gray-500 mt-3 text-lg">
+          Explore 28 states · 500+ destinations · Local food · Festivals
+        </p>
       </section>
 
-      <section>
-        <h2 className="text-2xl font-semibold mb-4">Featured States</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+      {/* States Grid */}
+      <section className="mb-12">
+        <h2 className="text-2xl font-semibold mb-6">Explore States</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {states.map((state) => (
             <Link key={state.id} to={`/state/${state.slug}`}>
-              <div className="border rounded-lg p-4 shadow-sm hover:shadow-md transition">
-                <h3 className="text-lg font-medium">{state.name}</h3>
-                <p className="text-sm text-gray-500">{state.capital}</p>
+              <div className="border rounded-lg overflow-hidden shadow-sm hover:shadow-md transition cursor-pointer">
+                {state.banner_image && (
+                  <img
+                    src={state.banner_image}
+                    alt={state.name}
+                    className="w-full h-40 object-cover"
+                  />
+                )}
+                <div className="p-4">
+                  <h3 className="text-lg font-medium text-gray-800">{state.name}</h3>
+                  <p className="text-sm text-gray-500">{state.capital}</p>
+                  <p className="text-xs text-orange-400 mt-1">{state.famous_for}</p>
+                </div>
               </div>
             </Link>
           ))}
         </div>
       </section>
+
     </div>
   )
 }

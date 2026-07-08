@@ -20,12 +20,23 @@ function StatePage() {
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
 
+      {/* State Banner */}
+      {state.banner_image && (
+        <img
+          src={state.banner_image}
+          alt={state.name}
+          className="w-full h-96 object-cover rounded-xl mb-6"
+        />
+      )}
+
       {/* State Header */}
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-gray-800">{state.name}</h1>
         <p className="text-gray-500 mt-1">{state.capital} · {state.region} India</p>
         <p className="text-gray-600 mt-3">{state.description}</p>
-        <p className="text-sm text-orange-500 mt-2">Best time to visit — {state.best_season}</p>
+        <p className="text-sm text-orange-500 mt-2">
+          Best time to visit — {state.best_season}
+        </p>
       </div>
 
       {/* Places Section */}
@@ -34,10 +45,19 @@ function StatePage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           {state.places.map((place) => (
             <Link key={place.id} to={`/place/${place.slug}`}>
-              <div className="border rounded-lg p-4 shadow-sm hover:shadow-md transition">
-                <h3 className="text-lg font-medium">{place.name}</h3>
-                <p className="text-sm text-orange-400 capitalize">{place.category}</p>
-                <p className="text-sm text-gray-500 mt-1">{place.famous_for}</p>
+              <div className="border rounded-lg overflow-hidden shadow-sm hover:shadow-md transition">
+                {place.image && (
+                  <img
+                    src={place.image}
+                    alt={place.name}
+                    className="w-full h-36 object-cover"
+                  />
+                )}
+                <div className="p-4">
+                  <h3 className="text-lg font-medium">{place.name}</h3>
+                  <p className="text-sm text-orange-400 capitalize">{place.category}</p>
+                  <p className="text-sm text-gray-500 mt-1">{place.famous_for}</p>
+                </div>
               </div>
             </Link>
           ))}
@@ -49,10 +69,19 @@ function StatePage() {
         <h2 className="text-2xl font-semibold mb-4">Local Food</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           {state.foods.map((food) => (
-            <div key={food.id} className="border rounded-lg p-4 shadow-sm">
-              <h3 className="text-lg font-medium">{food.name}</h3>
-              <p className="text-sm text-orange-400">{food.category}</p>
-              <p className="text-sm text-gray-500 mt-1">{food.description}</p>
+            <div key={food.id} className="border rounded-lg overflow-hidden shadow-sm">
+              {food.image && (
+                <img
+                  src={food.image}
+                  alt={food.name}
+                  className="w-full h-36 object-cover"
+                />
+              )}
+              <div className="p-4">
+                <h3 className="text-lg font-medium">{food.name}</h3>
+                <p className="text-sm text-orange-400">{food.category}</p>
+                <p className="text-sm text-gray-500 mt-1">{food.description}</p>
+              </div>
             </div>
           ))}
         </div>
@@ -63,14 +92,28 @@ function StatePage() {
         <h2 className="text-2xl font-semibold mb-4">Events & Festivals</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           {state.events.map((event) => (
-            <div key={event.id} className="border rounded-lg p-4 shadow-sm">
-              <h3 className="text-lg font-medium">{event.name}</h3>
-              <p className="text-sm text-gray-500">{event.location}</p>
-              <p className="text-sm text-orange-400 mt-1">{event.date_start}</p>
+            <div key={event.id} className="border rounded-lg overflow-hidden shadow-sm">
+              {event.image && (
+                <img
+                  src={event.image}
+                  alt={event.name}
+                  className="w-full h-36 object-cover"
+                />
+              )}
+              <div className="p-4">
+                <h3 className="text-lg font-medium">{event.name}</h3>
+                <p className="text-sm text-gray-500">{event.location}</p>
+                <p className="text-sm text-orange-400 mt-1">{event.date_start}</p>
+              </div>
             </div>
           ))}
         </div>
       </div>
+
+      {/* Back Button */}
+      <Link to="/" className="text-orange-500 hover:underline text-sm">
+        ← Back to Home
+      </Link>
 
     </div>
   )

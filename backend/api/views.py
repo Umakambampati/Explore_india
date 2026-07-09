@@ -7,6 +7,8 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .models import State,Place,City,Food,Event
 from .serializers import StateSerializer,PlaceSerializer,CitySerializer,FoodSerializer,EventSerializer,StateFullSerializer
+from django.contrib.auth.models import User
+from rest_framework import status
 
 class StateListView(generics.ListAPIView):
     queryset = State.objects.all()
@@ -100,3 +102,32 @@ class StateFullDetailView(generics.RetrieveAPIView):
     queryset = State.objects.all()
     serializer_class = StateFullSerializer
     lookup_field = 'slug'
+
+@api_view(['POST'])
+def register(request):
+    username = request.data.get('username')
+    password = request.data.get('password')
+    email = request.data.get('email', '')
+
+    if not username or not password:
+        return Response(
+            {'error': 'Username and password required'},
+            status=status.HTTP_400_BAD_REQUEST
+        )
+
+    if User.objects.filter(username=username).exists():
+        return Response(
+            {'error': 'Username already exists'},
+            status=status.HTTP_400_BAD_REQUEST
+        )
+
+    user = User.objects.create_user(
+        username=username,
+        password=password,
+        email=email
+    )
+
+    return Response(
+        {'message': 'Account created successfully'},
+        status=status.HTTP_201_CREATED
+    )

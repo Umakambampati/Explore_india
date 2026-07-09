@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import StateListView,StateDetailView,PlaceListView,PlaceDetailView,CityListView,CityeDetailView,FoodListView,EventListView,search,StateFullDetailView
+from .views import StateListView,StateDetailView,PlaceListView,PlaceDetailView,CityListView,CityeDetailView,FoodListView,EventListView,search,StateFullDetailView,register
 
 urlpatterns = [
     path('states/', StateListView.as_view(), name='state-list'),
@@ -11,5 +11,6 @@ urlpatterns = [
     path('food/',FoodListView.as_view(),name='food-list'),
     path('event/',EventListView.as_view(),name='event_list'),
     path('search/', search, name='search'),
-    path('states/<slug:slug>/full/', StateFullDetailView.as_view(), name='state-full-detail')
+    path('states/<slug:slug>/full/', StateFullDetailView.as_view(), name='state-full-detail'),
+    path('register/', register, name='register'),
 ]

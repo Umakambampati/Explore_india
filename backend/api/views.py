@@ -5,10 +5,11 @@ from rest_framework import generics
 from django.db.models import Q
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
-from .models import State,Place,City,Food,Event
-from .serializers import StateSerializer,PlaceSerializer,CitySerializer,FoodSerializer,EventSerializer,StateFullSerializer
+from .models import State,Place,City,Food,Event,Review
+from .serializers import StateSerializer,PlaceSerializer,CitySerializer,FoodSerializer,EventSerializer,StateFullSerializer,ReviewSerializer
 from django.contrib.auth.models import User
 from rest_framework import status
+from rest_framework.permissions import IsAuthenticated
 
 class StateListView(generics.ListAPIView):
     queryset = State.objects.all()
@@ -131,3 +132,28 @@ def register(request):
         {'message': 'Account created successfully'},
         status=status.HTTP_201_CREATED
     )
+
+
+@api_view(['GET'])
+def get_reviews(request, slug):
+    place = Place.objects.get(slug=slug)
+    reviews = Review.objects.filter(place=place)
+    serializer = ReviewSerializer(reviews, many=True)
+    return Response(serializer.data)
+
+
+@api_view(['POST'])
+def add_review(request, slug):
+    if not request.user.is_authenticated:
+        return Response(
+            {'error': 'Please login to write a review'},
+            status=status.HTTP_401_UNAUTHORIZED
+        )
+
+    place = Place.objects.get(slug=slug)
+
+    serializer = ReviewSerializer(data=request.data)
+    if serializer.is_valid():
+        serializer.save(user=request.user, place=place)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+    return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

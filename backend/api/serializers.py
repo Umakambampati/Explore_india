@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import State,Place,City,Food,Event
+from .models import State,Place,City,Food,Event,Review
 
 class StateSerializer(serializers.ModelSerializer):
     class Meta:
@@ -34,3 +34,12 @@ class StateFullSerializer(serializers.ModelSerializer):
     class Meta:
         model = State
         fields = '__all__'
+
+
+class ReviewSerializer(serializers.ModelSerializer):
+    username = serializers.CharField(source='user.username', read_only=True)
+
+    class Meta:
+        model = Review
+        fields = ['id', 'username', 'rating', 'body', 'created_at']
+        read_only_fields = ['id', 'username', 'created_at']

@@ -50,6 +50,9 @@ class Place(models.Model):
     image = models.URLField(blank=True)
     best_time = models.CharField(max_length=100)
     famous_for = models.CharField(max_length=200)
+    timings = models.CharField(max_length=200, blank=True, default='Open all day')
+    entry_fee = models.CharField(max_length=100, blank=True, default='Free')
+    visit_duration = models.CharField(max_length=100, blank=True, default='1-2 hours')
 
     def __str__(self):
         return self.name

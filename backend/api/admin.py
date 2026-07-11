@@ -6,7 +6,11 @@ from .models import State, City, Place, Food, Hotel, Event, Review, Itinerary, I
 
 admin.site.register(State)
 admin.site.register(City)
-admin.site.register(Place)
+@admin.register(Place)
+class PlaceAdmin(admin.ModelAdmin):
+    list_display = ['name', 'state', 'city', 'category']
+    list_filter = ['state', 'category']
+    search_fields = ['name']
 admin.site.register(Food)
 admin.site.register(Hotel)
 admin.site.register(Event)
@@ -14,3 +18,4 @@ admin.site.register(Review)
 admin.site.register(Itinerary)
 admin.site.register(ItineraryDay)
 admin.site.register(ItineraryStop)
+

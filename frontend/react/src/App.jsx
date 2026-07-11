@@ -8,6 +8,7 @@ import RegisterPage from './pages/RegisterPage'
 import LoginPage from './pages/LoginPage'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+import AIChatPage from './pages/AIChatPage'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/trip-planner" element={<TripPlannerPage />} />
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/login" element={<LoginPage />} />
+        <Route path="/ai-chat" element={<AIChatPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>

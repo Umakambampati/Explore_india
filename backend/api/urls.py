@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import StateListView,StateDetailView,PlaceListView,PlaceDetailView,CityListView,CityeDetailView,FoodListView,EventListView,search,StateFullDetailView,register,get_reviews, add_review
+from .views import StateListView,StateDetailView,PlaceListView,PlaceDetailView,CityListView,CityeDetailView,FoodListView,EventListView,search,StateFullDetailView,register,get_reviews, add_review,ai_chat
 
 urlpatterns = [
     path('states/', StateListView.as_view(), name='state-list'),
@@ -15,4 +15,5 @@ urlpatterns = [
     path('search/', search, name='search'),
     path('states/<slug:slug>/full/', StateFullDetailView.as_view(), name='state-full-detail'),
     path('register/', register, name='register'),
+    path('ai-chat/', ai_chat, name='ai-chat'),
 ]

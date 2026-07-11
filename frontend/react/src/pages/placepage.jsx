@@ -49,27 +49,87 @@ function PlacePage() {
   }
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
+    <div className="max-w-5xl mx-auto px-4 py-8">
 
-      {/* Place Image */}
+      {/* Hero Image */}
       {place.image && (
         <img
           src={place.image}
           alt={place.name}
-          className="w-full h-72 object-cover rounded-xl mb-6"
+          className="w-full h-80 object-cover rounded-2xl mb-8"
         />
       )}
 
       {/* Place Details */}
-      <span className="text-sm text-orange-500 capitalize">{place.category}</span>
-      <h1 className="text-4xl font-bold text-gray-800 mt-1">{place.name}</h1>
-      <p className="text-gray-500 mt-1">Best time to visit — {place.best_time}</p>
-      <p className="text-gray-600 mt-3 text-lg">{place.description}</p>
-      <p className="text-sm text-orange-400 mt-2">Famous for — {place.famous_for}</p>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
+
+        {/* Left Column */}
+        <div>
+          <span className="text-sm text-orange-500 capitalize bg-orange-50 px-3 py-1 rounded-full">
+            {place.category}
+          </span>
+          <h1 className="text-4xl font-bold text-gray-800 mt-3 mb-3">{place.name}</h1>
+          <p className="text-gray-600 text-lg leading-relaxed">{place.description}</p>
+        </div>
+
+        {/* Right Column — Quick Info */}
+        <div className="bg-gray-50 rounded-xl p-6 space-y-4">
+          <h3 className="font-semibold text-gray-800 mb-4">Quick Info</h3>
+
+          <div className="flex items-start gap-3">
+            <span className="text-orange-500">🕐</span>
+            <div>
+              <p className="text-sm font-medium text-gray-700">Timings</p>
+              <p className="text-sm text-gray-500">{place.timings}</p>
+            </div>
+          </div>
+
+          <div className="flex items-start gap-3">
+            <span className="text-orange-500">🎟️</span>
+            <div>
+              <p className="text-sm font-medium text-gray-700">Entry Fee</p>
+              <p className="text-sm text-gray-500">{place.entry_fee}</p>
+            </div>
+          </div>
+
+          <div className="flex items-start gap-3">
+            <span className="text-orange-500">⏱️</span>
+            <div>
+              <p className="text-sm font-medium text-gray-700">Visit Duration</p>
+              <p className="text-sm text-gray-500">{place.visit_duration}</p>
+            </div>
+          </div>
+
+          <div className="flex items-start gap-3">
+            <span className="text-orange-500">📅</span>
+            <div>
+              <p className="text-sm font-medium text-gray-700">Best Time to Visit</p>
+              <p className="text-sm text-gray-500">{place.best_time}</p>
+            </div>
+          </div>
+
+          <div className="flex items-start gap-3">
+            <span className="text-orange-500">⭐</span>
+            <div>
+              <p className="text-sm font-medium text-gray-700">Famous For</p>
+              <p className="text-sm text-gray-500">{place.famous_for}</p>
+            </div>
+          </div>
+
+          {/* AI Trip Planner Button */}
+          <Link
+            to="/trip-planner"
+            className="block w-full text-center bg-orange-500 text-white py-3 rounded-lg hover:bg-orange-600 transition font-medium mt-4"
+          >
+            🗺️ Plan a Trip Here
+          </Link>
+
+        </div>
+      </div>
 
       {/* Reviews Section */}
       <div className="mt-10">
-        <h2 className="text-2xl font-semibold mb-4">Reviews</h2>
+        <h2 className="text-2xl font-semibold mb-6">Reviews</h2>
 
         {/* Existing Reviews */}
         {reviews.length === 0 ? (
@@ -77,7 +137,7 @@ function PlacePage() {
         ) : (
           <div className="space-y-4 mb-8">
             {reviews.map((review) => (
-              <div key={review.id} className="border rounded-lg p-4 shadow-sm">
+              <div key={review.id} className="border rounded-xl p-5 shadow-sm">
                 <div className="flex items-center justify-between mb-2">
                   <span className="font-medium text-gray-800">{review.username}</span>
                   <span className="text-orange-500">{'⭐'.repeat(review.rating)}</span>
@@ -107,9 +167,7 @@ function PlacePage() {
             )}
 
             <div className="mb-4">
-              <label className="block text-sm font-medium text-gray-700 mb-1">
-                Rating
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-1">Rating</label>
               <select
                 value={rating}
                 onChange={(e) => setRating(parseInt(e.target.value))}
@@ -124,9 +182,7 @@ function PlacePage() {
             </div>
 
             <div className="mb-4">
-              <label className="block text-sm font-medium text-gray-700 mb-1">
-                Your Review
-              </label>
+              <label className="block text-sm font-medium text-gray-700 mb-1">Your Review</label>
               <textarea
                 value={body}
                 onChange={(e) => setBody(e.target.value)}

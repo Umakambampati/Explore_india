@@ -1,5 +1,7836 @@
 [
 {
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-06-05T09:38:15.148Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Telangana",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-06-05T09:39:29.824Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Hyderabad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-06-05T09:40:41.204Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "1",
+    "object_repr": "Charminar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-06-05T09:43:40.930Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "2",
+    "object_repr": "Golconda Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-06-06T11:57:13.717Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "2",
+    "object_repr": "Andhra Pradesh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-06-06T11:58:21.826Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "3",
+    "object_repr": "Rajasthan",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-06-06T12:06:57.253Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "4",
+    "object_repr": "Kerala",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-06-06T12:08:13.185Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "5",
+    "object_repr": "Goa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-06-06T12:09:16.682Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "6",
+    "object_repr": "Tamil Nadu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-06-06T12:10:53.578Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "7",
+    "object_repr": "Karnataka",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-06-06T12:12:13.747Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "8",
+    "object_repr": "Himachal Pradesh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-06-06T12:13:23.689Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "9",
+    "object_repr": "Gujarat",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-06-06T12:16:21.267Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "10",
+    "object_repr": "Punjab",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-06-06T12:18:21.822Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "11",
+    "object_repr": "West Bengal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-06-06T12:20:23.258Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "12",
+    "object_repr": "Uttar Pradesh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-06-06T12:21:07.632Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "13",
+    "object_repr": "Bihar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-06-06T12:22:21.661Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "14",
+    "object_repr": "Odisha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-06-06T12:23:26.011Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "15",
+    "object_repr": "Assam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-06-06T12:24:54.137Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "16",
+    "object_repr": "Uttarakhand",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-06-06T12:26:15.395Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "17",
+    "object_repr": "Madya Pradesh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-06-06T12:27:21.831Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "18",
+    "object_repr": "Jharkhand",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-06-06T12:29:52.342Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "19",
+    "object_repr": "Chhattisgarh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-06-06T12:30:16.640Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "18",
+    "object_repr": "Jharkhand",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Famous for\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-06-06T12:38:24.503Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "19",
+    "object_repr": "Chhattisgarh",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-06-06T12:39:34.446Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "20",
+    "object_repr": "Haryana",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-06-06T12:40:48.832Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "21",
+    "object_repr": "Arunachal Pradesh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-06-06T12:41:55.439Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "22",
+    "object_repr": "Manipur",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-06-06T12:42:53.753Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "23",
+    "object_repr": "Mizoram",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-06-06T12:43:51.918Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "24",
+    "object_repr": "Nagaland",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-06-06T12:45:46.004Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "25",
+    "object_repr": "Maharastra",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-06-06T12:47:06.044Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "26",
+    "object_repr": "Meghalaya",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-06-06T12:48:12.451Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "27",
+    "object_repr": "Sikkim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-06-06T12:49:07.083Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "28",
+    "object_repr": "Tripura",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-06-06T12:51:12.131Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Hyderabad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-06-06T12:51:30.770Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Hyderabad",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-06-06T12:51:43.111Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Hyderabad",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-06-06T12:52:07.194Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Warangal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-06-06T12:52:31.276Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Nizamabad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-06-06T12:52:54.758Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Vishakapatnam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-06-06T12:53:04.704Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Vishakapatnam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-06-06T12:53:27.823Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Tirupati",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-06-06T12:53:51.186Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Vijayawada",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-06-06T12:54:15.846Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Jaipur",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-06-06T12:54:58.633Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Jodhpur",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-06-06T12:55:08.917Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Jaipur",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2026-06-06T12:55:42.213Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Jaisalmer",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2026-06-06T12:56:10.633Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Kochi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2026-06-06T12:56:30.461Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Munnar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2026-06-06T12:56:57.910Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Allepey",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2026-06-06T12:57:22.176Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Panaji",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2026-06-06T12:57:49.825Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "North Goa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2026-06-06T12:58:11.273Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "South-Goa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2026-06-06T12:58:30.530Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Chennai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2026-06-06T12:59:18.237Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Madurai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2026-06-06T12:59:37.360Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Ooty",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2026-06-06T13:00:05.909Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "Benguluru",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2026-06-06T13:00:24.600Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "Mysore",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2026-06-06T13:01:14.484Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "Hampi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2026-06-06T13:01:34.351Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "23",
+    "object_repr": "Shimla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2026-06-06T13:01:58.866Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Manali",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2026-06-06T13:02:20.994Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "25",
+    "object_repr": "Dharamshala",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2026-06-06T13:02:48.601Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "26",
+    "object_repr": "Mumbai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2026-06-06T13:03:12.379Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "27",
+    "object_repr": "Ahmmedabad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2026-06-06T13:03:40.878Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "28",
+    "object_repr": "Amristar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2026-06-06T13:03:59.790Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "29",
+    "object_repr": "Kolkata",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2026-06-06T13:04:21.572Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "30",
+    "object_repr": "Lucknow",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2026-06-06T13:04:41.863Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "31",
+    "object_repr": "Patna",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2026-06-06T13:05:05.495Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "32",
+    "object_repr": "Bhubaneswar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2026-06-06T13:05:26.638Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "33",
+    "object_repr": "Guwathi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2026-06-06T13:05:55.551Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "34",
+    "object_repr": "Haridwar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2026-06-06T13:06:16.387Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "35",
+    "object_repr": "Bhopal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2026-06-06T13:06:41.882Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "36",
+    "object_repr": "Ranchi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2026-06-06T13:07:07.218Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "37",
+    "object_repr": "Raipur",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2026-06-06T13:07:26.417Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "38",
+    "object_repr": "Gurugram",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2026-06-06T13:07:48.920Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "39",
+    "object_repr": "Itanagar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2026-06-06T13:08:14.309Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "40",
+    "object_repr": "Imphal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2026-06-06T13:08:36.844Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "41",
+    "object_repr": "Shillong",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2026-06-06T13:09:23.082Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "42",
+    "object_repr": "Aizawi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2026-06-06T13:10:30.490Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "43",
+    "object_repr": "Kohima",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2026-06-06T13:12:05.984Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "44",
+    "object_repr": "Gangtok",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2026-06-06T13:12:31.288Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "45",
+    "object_repr": "Agartala",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2026-06-08T13:03:28.734Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "3",
+    "object_repr": "Charminar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2026-06-08T13:04:08.603Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "3",
+    "object_repr": "Charminar",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2026-06-08T13:05:06.211Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "4",
+    "object_repr": "Golconda Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2026-06-08T13:05:55.198Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "5",
+    "object_repr": "Hussain Sagar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2026-06-08T13:06:54.395Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "6",
+    "object_repr": "Ramoji Film City",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2026-06-08T13:07:58.292Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "7",
+    "object_repr": "Salar Jung Museum",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2026-06-08T13:08:57.871Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "8",
+    "object_repr": "Warangal Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2026-06-08T13:10:02.102Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "9",
+    "object_repr": "Thousand Pillar Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2026-06-08T13:10:14.701Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "8",
+    "object_repr": "Warangal Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"City\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2026-06-08T13:11:26.078Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "10",
+    "object_repr": "Ramappa Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2026-06-08T13:12:12.431Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "11",
+    "object_repr": "Nizamabad Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2026-06-08T13:13:35.922Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "12",
+    "object_repr": "Tirumala Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2026-06-08T13:14:47.889Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "13",
+    "object_repr": "Chandragiri Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2026-06-08T13:15:37.094Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "14",
+    "object_repr": "RK Beach",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2026-06-08T13:17:01.778Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "15",
+    "object_repr": "Araku Valley",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2026-06-08T13:17:55.047Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "16",
+    "object_repr": "Borra Caves",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2026-06-08T13:18:46.626Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "17",
+    "object_repr": "Kanaka Durga Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2026-06-08T13:22:16.867Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "18",
+    "object_repr": "Undavalli Caves",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2026-06-08T13:30:32.678Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "19",
+    "object_repr": "Prakasham Barraige",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2026-06-08T13:55:14.954Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "20",
+    "object_repr": "Amber Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2026-06-08T13:56:26.295Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "21",
+    "object_repr": "Hawa Mahal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2026-06-08T13:57:19.292Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "22",
+    "object_repr": "City Palace Jaipur",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2026-06-08T13:59:06.420Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "23",
+    "object_repr": "Mehrangarh Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2026-06-08T14:00:32.366Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "24",
+    "object_repr": "Jaisalmer Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2026-06-08T14:02:16.180Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "25",
+    "object_repr": "Sam Sand Dunes",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2026-06-08T14:03:08.889Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "26",
+    "object_repr": "NameSlugStateCityCategoryBest TimeFamous ForDescriptionAmber Fortamber-fortRajasthanJaipurHeritageOc",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2026-06-08T14:04:12.189Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "27",
+    "object_repr": "Alleppey Backwaters",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2026-06-08T14:04:51.068Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "26",
+    "object_repr": "Patwon ki Haveli",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2026-06-08T14:05:50.618Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "28",
+    "object_repr": "Munnar Tea Gardens",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2026-06-08T14:07:39.026Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "29",
+    "object_repr": "Fort Kochi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2026-06-10T06:13:56.848Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "30",
+    "object_repr": "Chinese Fishsing Nets",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2026-06-10T06:14:58.862Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "31",
+    "object_repr": "Eravikulam National Park",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2026-06-10T06:17:54.091Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "32",
+    "object_repr": "Kumarakom Bird Sanctaury",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2026-06-10T06:18:49.518Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "33",
+    "object_repr": "Baga Beach",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2026-06-10T06:19:49.408Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "34",
+    "object_repr": "Calangute Beach",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2026-06-10T06:20:47.338Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "35",
+    "object_repr": "Basilica of Bom Jesus",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2026-06-10T06:22:20.212Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "36",
+    "object_repr": "Dudhsagar Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2026-06-10T06:23:13.977Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "37",
+    "object_repr": "Chapora Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2026-06-10T06:24:16.747Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "38",
+    "object_repr": "Meenakshi Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2026-06-10T06:26:31.599Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "39",
+    "object_repr": "Marina Beach",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2026-06-10T06:28:12.812Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "40",
+    "object_repr": "Ooty Lake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2026-06-10T06:29:09.273Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "41",
+    "object_repr": "Brihadeeswarar Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2026-06-10T06:30:00.740Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "42",
+    "object_repr": "Valparai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2026-06-10T06:30:48.287Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "43",
+    "object_repr": "Mysore Palace",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2026-06-10T06:31:34.458Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "44",
+    "object_repr": "Hampi Ruins",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2026-06-10T06:32:16.854Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "45",
+    "object_repr": "Coorg",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2026-06-10T06:33:00.711Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "46",
+    "object_repr": "Jog Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2026-06-10T06:33:59.194Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "47",
+    "object_repr": "Banglore Palace",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2026-06-10T06:35:12.231Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "48",
+    "object_repr": "Rohtang Pass",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2026-06-10T06:36:10.638Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "49",
+    "object_repr": "Hadimba Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2026-06-10T06:36:58.817Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "50",
+    "object_repr": "Mall Road Shimla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2026-06-10T06:37:58.567Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "51",
+    "object_repr": "Triund Trek",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2026-06-10T06:38:44.045Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "52",
+    "object_repr": "Solang valley",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2026-06-10T06:40:42.194Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "53",
+    "object_repr": "Gateway of India",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2026-06-10T06:42:10.036Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "54",
+    "object_repr": "Ajanta Caves",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2026-06-10T06:43:01.836Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "55",
+    "object_repr": "Rann of Kutch",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2026-06-10T06:43:54.048Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "56",
+    "object_repr": "Sabarmati Ashram",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2026-06-10T06:44:47.048Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "57",
+    "object_repr": "Golden Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2026-06-10T06:46:54.598Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "58",
+    "object_repr": "Jallianwala Bagh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2026-06-10T06:48:05.383Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "59",
+    "object_repr": "Victoria Memorial",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2026-06-10T06:48:58.017Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "60",
+    "object_repr": "Darjeeling Tea Gardens",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2026-06-10T06:51:19.680Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "61",
+    "object_repr": "Taj Mahal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2026-06-10T06:52:22.529Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "62",
+    "object_repr": "Varanasi Ghats",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2026-06-10T06:53:32.221Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "63",
+    "object_repr": "Bodh Gaya",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2026-06-10T06:54:28.520Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "64",
+    "object_repr": "Nalanda University",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2026-06-10T06:55:13.854Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "65",
+    "object_repr": "Konark Sun Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2026-06-10T06:56:08.900Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "66",
+    "object_repr": "Puri Beach",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2026-06-10T06:57:13.962Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "67",
+    "object_repr": "Kaziranga National Park",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2026-06-10T06:58:49.273Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "68",
+    "object_repr": "Kamakhya Temple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2026-06-10T06:59:33.375Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "69",
+    "object_repr": "Haridwar Ghats",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2026-06-10T07:00:16.988Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "70",
+    "object_repr": "Rishikesh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2026-06-10T07:02:47.317Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "71",
+    "object_repr": "Khajuraho Temples",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2026-06-10T07:03:58.101Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "72",
+    "object_repr": "Bandhavgarh National Park",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2026-06-10T07:05:16.838Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "73",
+    "object_repr": "Hundru Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2026-06-10T07:06:48.199Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "74",
+    "object_repr": "Betla National Park",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2026-06-10T07:07:46.502Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "75",
+    "object_repr": "Chitrakote Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2026-06-10T07:08:50.389Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "76",
+    "object_repr": "Tirathgarh Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2026-06-10T07:11:00.008Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "77",
+    "object_repr": "Kurukshetra",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2026-06-10T07:12:37.237Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "78",
+    "object_repr": "Sultanpur Bird Sanctuary",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2026-06-10T07:14:49.730Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "79",
+    "object_repr": "Tawang Monastery",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2026-06-10T07:15:55.979Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "80",
+    "object_repr": "Ziro Valley",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2026-06-10T07:16:59.063Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "81",
+    "object_repr": "Loktak Lake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2026-06-10T07:25:21.769Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "82",
+    "object_repr": "Kangala Fort",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2026-06-10T07:27:05.381Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "83",
+    "object_repr": "Living Root Bridges",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2026-06-10T07:28:31.549Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "84",
+    "object_repr": "Elephant Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2026-06-10T07:30:01.550Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "85",
+    "object_repr": "Vantawng Falls",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2026-06-10T07:31:09.646Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "86",
+    "object_repr": "Reiek Heritage Village",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2026-06-10T07:32:32.789Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "87",
+    "object_repr": "Hornbill Festival Ground",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2026-06-10T07:33:22.567Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "88",
+    "object_repr": "Kohima War Cemetery",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2026-06-10T07:34:27.221Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "89",
+    "object_repr": "Rumtek Monastery",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2026-06-10T07:35:22.814Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "90",
+    "object_repr": "Tsomgo Lake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2026-06-10T07:36:33.205Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "91",
+    "object_repr": "Ujjayanta Palace",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2026-06-10T07:37:33.252Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "92",
+    "object_repr": "Neermahal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2026-06-10T09:35:56.127Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Hyderabadi Biryani",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2026-06-10T09:36:23.695Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Haleem",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2026-06-10T09:36:55.444Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Pesarattu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2026-06-10T09:37:22.194Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Gongura Pickle",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2026-06-10T09:37:47.280Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Qubani ka Meetha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2026-06-10T09:38:12.866Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Gongura Mutton",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2026-06-10T09:38:33.805Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Pulihora",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2026-06-10T09:38:56.185Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Bobbatlu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 183,
+  "fields": {
+    "action_time": "2026-06-10T09:39:24.450Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Royyala Iguru",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 184,
+  "fields": {
+    "action_time": "2026-06-10T09:39:56.885Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Pesarattu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 185,
+  "fields": {
+    "action_time": "2026-06-10T09:40:20.854Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Dal Baati Churma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 186,
+  "fields": {
+    "action_time": "2026-06-10T09:40:44.080Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Laal Maas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 187,
+  "fields": {
+    "action_time": "2026-06-10T09:41:09.885Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "Ghevar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 188,
+  "fields": {
+    "action_time": "2026-06-10T09:41:35.198Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Ker Sangri",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 189,
+  "fields": {
+    "action_time": "2026-06-10T09:42:00.279Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "Pyaaz Kachori",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 190,
+  "fields": {
+    "action_time": "2026-06-10T09:42:25.031Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "Appam with Stew",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 191,
+  "fields": {
+    "action_time": "2026-06-10T09:42:49.494Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "Kerala Fish Curry",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 192,
+  "fields": {
+    "action_time": "2026-06-10T09:43:17.709Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "Puttu Kadala",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 193,
+  "fields": {
+    "action_time": "2026-06-10T09:43:44.668Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "19",
+    "object_repr": "Sadya",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 194,
+  "fields": {
+    "action_time": "2026-06-10T09:44:10.987Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "20",
+    "object_repr": "Kerala Prawn Curry",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 195,
+  "fields": {
+    "action_time": "2026-06-10T09:44:38.473Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "21",
+    "object_repr": "Fish Curry Rice",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 196,
+  "fields": {
+    "action_time": "2026-06-10T09:45:20.824Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "22",
+    "object_repr": "Prawn Balchao",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 197,
+  "fields": {
+    "action_time": "2026-06-10T09:45:47.969Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "23",
+    "object_repr": "Bebinca",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 198,
+  "fields": {
+    "action_time": "2026-06-10T09:46:15.818Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "24",
+    "object_repr": "Xacuti",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 199,
+  "fields": {
+    "action_time": "2026-06-10T09:46:45.467Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "25",
+    "object_repr": "Pork Vindaloo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 200,
+  "fields": {
+    "action_time": "2026-06-10T09:47:09.516Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "26",
+    "object_repr": "Dosa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 201,
+  "fields": {
+    "action_time": "2026-06-10T09:47:33.231Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "27",
+    "object_repr": "Idli Sambar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 202,
+  "fields": {
+    "action_time": "2026-06-10T09:47:58.513Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "28",
+    "object_repr": "Chettinad Chicken",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 203,
+  "fields": {
+    "action_time": "2026-06-10T09:48:17.913Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "29",
+    "object_repr": "Pongal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 204,
+  "fields": {
+    "action_time": "2026-06-10T09:48:42.635Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "30",
+    "object_repr": "Filter Coffee",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 205,
+  "fields": {
+    "action_time": "2026-06-10T09:49:06.724Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "31",
+    "object_repr": "Bisi Bele Bath",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 206,
+  "fields": {
+    "action_time": "2026-06-10T09:49:34.124Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "32",
+    "object_repr": "Mysore Pak",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 207,
+  "fields": {
+    "action_time": "2026-06-10T09:49:58.274Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "33",
+    "object_repr": "Raagi Mudde",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 208,
+  "fields": {
+    "action_time": "2026-06-10T09:50:18.305Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "34",
+    "object_repr": "Udupi Sambar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 209,
+  "fields": {
+    "action_time": "2026-06-10T09:50:36.023Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "35",
+    "object_repr": "Coorg Pork Curry",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 210,
+  "fields": {
+    "action_time": "2026-06-10T09:50:56.674Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "36",
+    "object_repr": "Dham",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 211,
+  "fields": {
+    "action_time": "2026-06-10T09:51:19.354Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "37",
+    "object_repr": "Siddu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 212,
+  "fields": {
+    "action_time": "2026-06-10T09:51:38.686Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "38",
+    "object_repr": "Chha Gosht",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 213,
+  "fields": {
+    "action_time": "2026-06-10T09:51:55.719Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "39",
+    "object_repr": "Babru",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 214,
+  "fields": {
+    "action_time": "2026-06-10T09:52:20.255Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "40",
+    "object_repr": "Aktori",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 215,
+  "fields": {
+    "action_time": "2026-06-10T10:01:14.257Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Bathukamma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 216,
+  "fields": {
+    "action_time": "2026-06-10T10:02:14.823Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Bonalu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 217,
+  "fields": {
+    "action_time": "2026-06-10T10:02:54.582Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Deccan Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 218,
+  "fields": {
+    "action_time": "2026-06-10T10:03:40.022Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Brahmostavam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 219,
+  "fields": {
+    "action_time": "2026-06-10T10:04:19.534Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Visaka Utsav",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 220,
+  "fields": {
+    "action_time": "2026-06-10T10:05:18.161Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Sankranti",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 221,
+  "fields": {
+    "action_time": "2026-06-10T10:06:04.346Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Pushkar Camel Fair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 222,
+  "fields": {
+    "action_time": "2026-06-10T10:06:41.228Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Jaipur Literature Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 223,
+  "fields": {
+    "action_time": "2026-06-10T10:07:18.613Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Desert Festival Jaisalmer",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 224,
+  "fields": {
+    "action_time": "2026-06-10T10:07:59.054Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Onam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 225,
+  "fields": {
+    "action_time": "2026-06-10T10:08:38.252Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Thrissur Pooram",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 226,
+  "fields": {
+    "action_time": "2026-06-10T10:09:26.787Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Goa Carnival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 227,
+  "fields": {
+    "action_time": "2026-06-10T10:10:09.135Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Sunburn Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 228,
+  "fields": {
+    "action_time": "2026-06-10T10:10:45.133Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Feast of St Francis Xavier",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 229,
+  "fields": {
+    "action_time": "2026-06-10T10:11:21.831Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Pongal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 230,
+  "fields": {
+    "action_time": "2026-06-10T10:12:01.013Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Chennai Music Season",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 231,
+  "fields": {
+    "action_time": "2026-06-10T10:12:51.143Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Mahamaham Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 232,
+  "fields": {
+    "action_time": "2026-06-10T10:13:43.038Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Mysuru Dasara",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 233,
+  "fields": {
+    "action_time": "2026-06-10T10:14:25.506Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Hampi Utsav",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 234,
+  "fields": {
+    "action_time": "2026-06-10T10:15:21.608Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "Karaga Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 235,
+  "fields": {
+    "action_time": "2026-06-10T10:20:34.073Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "Kullu Dussehra",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 236,
+  "fields": {
+    "action_time": "2026-06-10T10:21:23.103Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "Shimla Summer Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 237,
+  "fields": {
+    "action_time": "2026-06-10T10:22:29.731Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Losar Festival",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 238,
+  "fields": {
+    "action_time": "2026-06-14T07:48:26.701Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Hyderabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 239,
+  "fields": {
+    "action_time": "2026-06-14T15:39:32.368Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Hyderabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 240,
+  "fields": {
+    "action_time": "2026-06-25T15:33:00.542Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Telangana",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 241,
+  "fields": {
+    "action_time": "2026-06-25T15:44:26.384Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "2",
+    "object_repr": "Andhra Pradesh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 242,
+  "fields": {
+    "action_time": "2026-06-25T15:45:24.193Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "3",
+    "object_repr": "Rajasthan",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 243,
+  "fields": {
+    "action_time": "2026-06-25T15:52:17.942Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "4",
+    "object_repr": "Kerala",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 244,
+  "fields": {
+    "action_time": "2026-06-25T15:53:22.867Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "5",
+    "object_repr": "Goa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 245,
+  "fields": {
+    "action_time": "2026-06-25T15:54:30.217Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "6",
+    "object_repr": "Tamil Nadu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 246,
+  "fields": {
+    "action_time": "2026-06-25T15:55:41.849Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "7",
+    "object_repr": "Karnataka",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 247,
+  "fields": {
+    "action_time": "2026-06-25T15:56:34.892Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "8",
+    "object_repr": "Himachal Pradesh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 248,
+  "fields": {
+    "action_time": "2026-06-25T15:58:50.744Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "9",
+    "object_repr": "Gujarat",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 249,
+  "fields": {
+    "action_time": "2026-06-25T15:59:51.535Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "10",
+    "object_repr": "Punjab",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 250,
+  "fields": {
+    "action_time": "2026-06-25T16:00:59.613Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "11",
+    "object_repr": "West Bengal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 251,
+  "fields": {
+    "action_time": "2026-06-25T16:01:40.864Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "12",
+    "object_repr": "Uttar Pradesh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 252,
+  "fields": {
+    "action_time": "2026-06-25T16:03:30.225Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "13",
+    "object_repr": "Bihar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 253,
+  "fields": {
+    "action_time": "2026-06-25T16:04:05.580Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "14",
+    "object_repr": "Odisha",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 254,
+  "fields": {
+    "action_time": "2026-06-25T16:04:40.261Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "15",
+    "object_repr": "Assam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 255,
+  "fields": {
+    "action_time": "2026-06-25T16:05:44.120Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "16",
+    "object_repr": "Uttarakhand",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 256,
+  "fields": {
+    "action_time": "2026-06-25T16:06:20.301Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "17",
+    "object_repr": "Madya Pradesh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 257,
+  "fields": {
+    "action_time": "2026-06-25T16:07:06.850Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "18",
+    "object_repr": "Jharkhand",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 258,
+  "fields": {
+    "action_time": "2026-06-25T16:07:46.812Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "19",
+    "object_repr": "Chhattisgarh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 259,
+  "fields": {
+    "action_time": "2026-06-25T16:08:18.063Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "20",
+    "object_repr": "Haryana",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 260,
+  "fields": {
+    "action_time": "2026-06-25T16:08:45.194Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "21",
+    "object_repr": "Arunachal Pradesh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 261,
+  "fields": {
+    "action_time": "2026-06-25T16:09:17.243Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "22",
+    "object_repr": "Manipur",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 262,
+  "fields": {
+    "action_time": "2026-06-25T16:09:51.254Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "23",
+    "object_repr": "Mizoram",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 263,
+  "fields": {
+    "action_time": "2026-06-25T16:10:12.975Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "24",
+    "object_repr": "Nagaland",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 264,
+  "fields": {
+    "action_time": "2026-06-25T16:10:39.372Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "25",
+    "object_repr": "Maharastra",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 265,
+  "fields": {
+    "action_time": "2026-06-25T16:11:04.505Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "26",
+    "object_repr": "Meghalaya",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 266,
+  "fields": {
+    "action_time": "2026-06-25T16:11:27.834Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "27",
+    "object_repr": "Sikkim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 267,
+  "fields": {
+    "action_time": "2026-06-25T16:11:57.083Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "28",
+    "object_repr": "Tripura",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 268,
+  "fields": {
+    "action_time": "2026-06-26T07:05:27.714Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "3",
+    "object_repr": "Charminar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 269,
+  "fields": {
+    "action_time": "2026-06-26T07:07:20.617Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "4",
+    "object_repr": "Golconda Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 270,
+  "fields": {
+    "action_time": "2026-06-26T07:08:10.539Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "92",
+    "object_repr": "Neermahal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 271,
+  "fields": {
+    "action_time": "2026-06-26T07:08:43.372Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "91",
+    "object_repr": "Ujjayanta Palace",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 272,
+  "fields": {
+    "action_time": "2026-06-26T07:10:09.951Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "90",
+    "object_repr": "Tsomgo Lake",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 273,
+  "fields": {
+    "action_time": "2026-06-26T07:10:40.516Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "89",
+    "object_repr": "Rumtek Monastery",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 274,
+  "fields": {
+    "action_time": "2026-06-26T07:12:18.577Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "88",
+    "object_repr": "Kohima War Cemetery",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 275,
+  "fields": {
+    "action_time": "2026-06-26T07:19:51.473Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "84",
+    "object_repr": "Elephant Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 276,
+  "fields": {
+    "action_time": "2026-06-26T07:20:29.372Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "83",
+    "object_repr": "Living Root Bridges",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 277,
+  "fields": {
+    "action_time": "2026-06-26T07:22:35.315Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "82",
+    "object_repr": "Kangla Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 278,
+  "fields": {
+    "action_time": "2026-06-26T07:23:09.215Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "81",
+    "object_repr": "Loktak Lake",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 279,
+  "fields": {
+    "action_time": "2026-06-26T07:24:11.030Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "80",
+    "object_repr": "Ziro Valley",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 280,
+  "fields": {
+    "action_time": "2026-06-26T07:25:12.242Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "79",
+    "object_repr": "Tawang Monastery",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 281,
+  "fields": {
+    "action_time": "2026-06-26T07:25:51.739Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "79",
+    "object_repr": "Tawang Monastery",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 282,
+  "fields": {
+    "action_time": "2026-06-26T07:27:22.218Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "78",
+    "object_repr": "Sultanpur Bird Sanctuary",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 283,
+  "fields": {
+    "action_time": "2026-06-26T07:28:10.985Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "77",
+    "object_repr": "Kurukshetra",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 284,
+  "fields": {
+    "action_time": "2026-06-26T07:29:16.713Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "76",
+    "object_repr": "Tirathgarh Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 285,
+  "fields": {
+    "action_time": "2026-06-26T07:30:33.180Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "75",
+    "object_repr": "Chitrakote Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 286,
+  "fields": {
+    "action_time": "2026-06-26T07:33:02.153Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "73",
+    "object_repr": "Hundru Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 287,
+  "fields": {
+    "action_time": "2026-06-26T07:34:25.316Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "71",
+    "object_repr": "Khajuraho Temples",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 288,
+  "fields": {
+    "action_time": "2026-06-26T07:35:07.496Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "70",
+    "object_repr": "Rishikesh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 289,
+  "fields": {
+    "action_time": "2026-06-26T07:35:48.464Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "69",
+    "object_repr": "Haridwar Ghats",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 290,
+  "fields": {
+    "action_time": "2026-06-26T07:36:33.079Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "68",
+    "object_repr": "Kamakhya Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 291,
+  "fields": {
+    "action_time": "2026-06-26T07:37:36.960Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "67",
+    "object_repr": "Kaziranga National Park",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 292,
+  "fields": {
+    "action_time": "2026-06-26T07:38:16.740Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "66",
+    "object_repr": "Puri Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 293,
+  "fields": {
+    "action_time": "2026-06-26T07:38:48.720Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "65",
+    "object_repr": "Konark Sun Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 294,
+  "fields": {
+    "action_time": "2026-06-26T07:39:17.555Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "64",
+    "object_repr": "Nalanda University",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 295,
+  "fields": {
+    "action_time": "2026-06-26T07:40:05.665Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "63",
+    "object_repr": "Bodh Gaya",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 296,
+  "fields": {
+    "action_time": "2026-06-26T07:40:39.006Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "62",
+    "object_repr": "Varanasi Ghats",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 297,
+  "fields": {
+    "action_time": "2026-06-26T07:41:19.570Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "61",
+    "object_repr": "Taj Mahal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 298,
+  "fields": {
+    "action_time": "2026-06-26T07:41:52.682Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "60",
+    "object_repr": "Darjeeling Tea Gardens",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 299,
+  "fields": {
+    "action_time": "2026-06-26T07:42:28.659Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "59",
+    "object_repr": "Victoria Memorial",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 300,
+  "fields": {
+    "action_time": "2026-06-26T07:43:26.810Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "57",
+    "object_repr": "Golden Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 301,
+  "fields": {
+    "action_time": "2026-06-26T07:44:37.605Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "56",
+    "object_repr": "Sabarmati Ashram",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 302,
+  "fields": {
+    "action_time": "2026-06-26T07:45:37.335Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "54",
+    "object_repr": "Ajanta Caves",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 303,
+  "fields": {
+    "action_time": "2026-06-26T07:46:07.507Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "53",
+    "object_repr": "Gateway of India",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 304,
+  "fields": {
+    "action_time": "2026-06-26T07:47:00.566Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "52",
+    "object_repr": "Solang valley",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 305,
+  "fields": {
+    "action_time": "2026-06-26T07:47:59.460Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "51",
+    "object_repr": "Triund Trek",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 306,
+  "fields": {
+    "action_time": "2026-06-26T07:49:23.040Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "49",
+    "object_repr": "Hadimba Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 307,
+  "fields": {
+    "action_time": "2026-06-26T07:49:51.491Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "48",
+    "object_repr": "Rohtang Pass",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 308,
+  "fields": {
+    "action_time": "2026-06-26T07:50:22.673Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "47",
+    "object_repr": "Banglore Palace",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 309,
+  "fields": {
+    "action_time": "2026-06-26T07:51:40.136Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "46",
+    "object_repr": "Jog Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 310,
+  "fields": {
+    "action_time": "2026-06-26T07:53:47.127Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "45",
+    "object_repr": "Coorg",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 311,
+  "fields": {
+    "action_time": "2026-06-26T07:55:42.988Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "45",
+    "object_repr": "Coorg",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 312,
+  "fields": {
+    "action_time": "2026-06-26T07:56:20.819Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "44",
+    "object_repr": "Hampi Ruins",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 313,
+  "fields": {
+    "action_time": "2026-06-26T07:56:58.601Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "43",
+    "object_repr": "Mysore Palace",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 314,
+  "fields": {
+    "action_time": "2026-06-26T07:57:33.453Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "42",
+    "object_repr": "Valparai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 315,
+  "fields": {
+    "action_time": "2026-06-26T07:58:20.864Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "41",
+    "object_repr": "Brihadeeswarar Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 316,
+  "fields": {
+    "action_time": "2026-06-26T07:59:15.331Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "40",
+    "object_repr": "Ooty Lake",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 317,
+  "fields": {
+    "action_time": "2026-06-26T08:00:00.630Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "39",
+    "object_repr": "Marina Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 318,
+  "fields": {
+    "action_time": "2026-06-26T08:00:29.777Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "38",
+    "object_repr": "Meenakshi Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 319,
+  "fields": {
+    "action_time": "2026-06-26T08:01:09.676Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "37",
+    "object_repr": "Chapora Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 320,
+  "fields": {
+    "action_time": "2026-06-26T08:02:29.906Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "35",
+    "object_repr": "Basilica of Bom Jesus",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 321,
+  "fields": {
+    "action_time": "2026-06-26T08:02:58.735Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "34",
+    "object_repr": "Calangute Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 322,
+  "fields": {
+    "action_time": "2026-06-26T08:03:35.199Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "33",
+    "object_repr": "Baga Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 323,
+  "fields": {
+    "action_time": "2026-06-26T08:05:19.645Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "31",
+    "object_repr": "Eravikulam National Park",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 324,
+  "fields": {
+    "action_time": "2026-06-26T08:05:55.580Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "30",
+    "object_repr": "Chinese Fishsing Nets",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 325,
+  "fields": {
+    "action_time": "2026-06-26T08:07:24.615Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "28",
+    "object_repr": "Munnar Tea Gardens",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 326,
+  "fields": {
+    "action_time": "2026-06-26T08:09:10.449Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "25",
+    "object_repr": "Sam Sand Dunes",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 327,
+  "fields": {
+    "action_time": "2026-06-26T10:05:06.739Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "24",
+    "object_repr": "Jaisalmer Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 328,
+  "fields": {
+    "action_time": "2026-06-26T10:06:16.103Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "23",
+    "object_repr": "Mehrangarh Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 329,
+  "fields": {
+    "action_time": "2026-06-26T10:07:49.230Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "22",
+    "object_repr": "City Palace Jaipur",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 330,
+  "fields": {
+    "action_time": "2026-06-26T10:08:47.158Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "21",
+    "object_repr": "Hawa Mahal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 331,
+  "fields": {
+    "action_time": "2026-06-26T10:10:30.888Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "20",
+    "object_repr": "Amber Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 332,
+  "fields": {
+    "action_time": "2026-06-26T10:11:25.783Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "19",
+    "object_repr": "Prakasham Barraige",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 333,
+  "fields": {
+    "action_time": "2026-06-26T10:12:00.882Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "18",
+    "object_repr": "Undavalli Caves",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 334,
+  "fields": {
+    "action_time": "2026-06-26T10:12:44.667Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "17",
+    "object_repr": "Kanaka Durga Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 335,
+  "fields": {
+    "action_time": "2026-06-26T10:13:15.529Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "16",
+    "object_repr": "Borra Caves",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 336,
+  "fields": {
+    "action_time": "2026-06-26T10:14:41.900Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "15",
+    "object_repr": "Araku Valley",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 337,
+  "fields": {
+    "action_time": "2026-06-26T10:15:21.181Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "14",
+    "object_repr": "RK Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 338,
+  "fields": {
+    "action_time": "2026-06-26T10:18:25.564Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "13",
+    "object_repr": "Chandragiri Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 339,
+  "fields": {
+    "action_time": "2026-06-26T10:19:03.712Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "12",
+    "object_repr": "Tirumala Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 340,
+  "fields": {
+    "action_time": "2026-06-26T10:20:28.577Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "10",
+    "object_repr": "Ramappa Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 341,
+  "fields": {
+    "action_time": "2026-06-26T10:26:23.058Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "8",
+    "object_repr": "Warangal Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 342,
+  "fields": {
+    "action_time": "2026-06-26T10:35:53.148Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "9",
+    "object_repr": "Thousand Pillar Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 343,
+  "fields": {
+    "action_time": "2026-06-26T10:36:33.963Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "11",
+    "object_repr": "Nizamabad Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 344,
+  "fields": {
+    "action_time": "2026-06-26T10:37:22.246Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "6",
+    "object_repr": "Ramoji Film City",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 345,
+  "fields": {
+    "action_time": "2026-06-26T10:38:54.993Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "5",
+    "object_repr": "Hussain Sagar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 346,
+  "fields": {
+    "action_time": "2026-06-26T10:40:22.052Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "26",
+    "object_repr": "Patwon ki Haveli",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 347,
+  "fields": {
+    "action_time": "2026-06-26T10:41:11.775Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "27",
+    "object_repr": "Alleppey Backwaters",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 348,
+  "fields": {
+    "action_time": "2026-06-26T10:41:55.481Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "29",
+    "object_repr": "Fort Kochi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 349,
+  "fields": {
+    "action_time": "2026-06-26T10:42:55.565Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "32",
+    "object_repr": "Kumarakom Bird Sanctaury",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 350,
+  "fields": {
+    "action_time": "2026-06-26T10:43:32.463Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "36",
+    "object_repr": "Dudhsagar Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 351,
+  "fields": {
+    "action_time": "2026-06-26T10:44:15.840Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "50",
+    "object_repr": "Mall Road Shimla",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 352,
+  "fields": {
+    "action_time": "2026-06-26T10:44:48.394Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "55",
+    "object_repr": "Rann of Kutch",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 353,
+  "fields": {
+    "action_time": "2026-06-26T10:45:25.371Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "58",
+    "object_repr": "Jallianwala Bagh",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 354,
+  "fields": {
+    "action_time": "2026-06-26T10:46:20.889Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "72",
+    "object_repr": "Bandhavgarh National Park",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 355,
+  "fields": {
+    "action_time": "2026-06-26T10:46:48.685Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "74",
+    "object_repr": "Betla National Park",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 356,
+  "fields": {
+    "action_time": "2026-06-26T10:47:30.235Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "82",
+    "object_repr": "Kangla Fort",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 357,
+  "fields": {
+    "action_time": "2026-06-26T10:48:41.582Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "85",
+    "object_repr": "Vantawng Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 358,
+  "fields": {
+    "action_time": "2026-06-26T10:50:16.642Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "86",
+    "object_repr": "Reiek Heritage Village",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 359,
+  "fields": {
+    "action_time": "2026-06-26T10:51:06.225Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "87",
+    "object_repr": "Hornbill Festival Ground",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 360,
+  "fields": {
+    "action_time": "2026-06-26T10:52:23.894Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Hyderabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 361,
+  "fields": {
+    "action_time": "2026-06-26T10:52:57.754Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Warangal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 362,
+  "fields": {
+    "action_time": "2026-06-26T10:53:45.580Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Nizamabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 363,
+  "fields": {
+    "action_time": "2026-06-26T10:54:22.537Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Vishakapatnam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 364,
+  "fields": {
+    "action_time": "2026-06-26T10:55:03.670Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Tirupati",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 365,
+  "fields": {
+    "action_time": "2026-06-26T10:55:38.592Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Vijayawada",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 366,
+  "fields": {
+    "action_time": "2026-06-26T10:56:08.211Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Jaipur",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 367,
+  "fields": {
+    "action_time": "2026-06-26T10:56:35.826Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Jodhpur",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 368,
+  "fields": {
+    "action_time": "2026-06-26T10:57:10.355Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Jaisalmer",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 369,
+  "fields": {
+    "action_time": "2026-06-26T10:57:48.881Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Kochi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 370,
+  "fields": {
+    "action_time": "2026-06-26T10:58:15.505Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Munnar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 371,
+  "fields": {
+    "action_time": "2026-06-26T10:59:16.035Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Allepey",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 372,
+  "fields": {
+    "action_time": "2026-06-26T10:59:53.868Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Panaji",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 373,
+  "fields": {
+    "action_time": "2026-06-26T11:00:26.896Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "North Goa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 374,
+  "fields": {
+    "action_time": "2026-06-26T11:01:02.605Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "South-Goa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 375,
+  "fields": {
+    "action_time": "2026-06-26T11:02:26.194Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Chennai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 376,
+  "fields": {
+    "action_time": "2026-06-26T11:03:36.395Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Madurai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 377,
+  "fields": {
+    "action_time": "2026-06-26T11:04:07.988Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Ooty",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 378,
+  "fields": {
+    "action_time": "2026-06-26T11:05:07.932Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "Benguluru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 379,
+  "fields": {
+    "action_time": "2026-06-26T11:19:34.027Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "Mysore",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 380,
+  "fields": {
+    "action_time": "2026-06-26T11:20:21.997Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "Hampi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 381,
+  "fields": {
+    "action_time": "2026-06-26T11:21:40.337Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "23",
+    "object_repr": "Shimla",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 382,
+  "fields": {
+    "action_time": "2026-06-26T11:22:06.233Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Manali",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 383,
+  "fields": {
+    "action_time": "2026-06-26T11:22:35.123Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "25",
+    "object_repr": "Dharamshala",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 384,
+  "fields": {
+    "action_time": "2026-06-26T11:23:04.851Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "26",
+    "object_repr": "Mumbai",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 385,
+  "fields": {
+    "action_time": "2026-06-26T11:25:23.882Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "27",
+    "object_repr": "Ahmedabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 386,
+  "fields": {
+    "action_time": "2026-06-26T11:26:06.889Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "28",
+    "object_repr": "Amristar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 387,
+  "fields": {
+    "action_time": "2026-06-26T11:26:42.037Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "29",
+    "object_repr": "Kolkata",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 388,
+  "fields": {
+    "action_time": "2026-06-26T11:27:23.055Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "30",
+    "object_repr": "Lucknow",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 389,
+  "fields": {
+    "action_time": "2026-06-26T11:28:32.251Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "31",
+    "object_repr": "Patna",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 390,
+  "fields": {
+    "action_time": "2026-06-26T11:29:22.115Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "32",
+    "object_repr": "Bhubaneswar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 391,
+  "fields": {
+    "action_time": "2026-06-26T11:30:05.379Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "33",
+    "object_repr": "Guwahati",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 392,
+  "fields": {
+    "action_time": "2026-06-26T11:30:30.645Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "34",
+    "object_repr": "Haridwar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 393,
+  "fields": {
+    "action_time": "2026-06-26T11:30:53.499Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "35",
+    "object_repr": "Bhopal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 394,
+  "fields": {
+    "action_time": "2026-06-26T11:31:10.744Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "36",
+    "object_repr": "Ranchi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 395,
+  "fields": {
+    "action_time": "2026-06-26T11:31:32.776Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "37",
+    "object_repr": "Raipur",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 396,
+  "fields": {
+    "action_time": "2026-06-26T11:32:27.787Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "38",
+    "object_repr": "Gurugram",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 397,
+  "fields": {
+    "action_time": "2026-06-26T11:32:48.636Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "39",
+    "object_repr": "Itanagar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 398,
+  "fields": {
+    "action_time": "2026-06-26T11:33:06.575Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "40",
+    "object_repr": "Imphal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 399,
+  "fields": {
+    "action_time": "2026-06-26T11:33:30.067Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "41",
+    "object_repr": "Shillong",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 400,
+  "fields": {
+    "action_time": "2026-06-26T11:34:00.893Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "42",
+    "object_repr": "Aizawl",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 401,
+  "fields": {
+    "action_time": "2026-06-26T11:34:25.248Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "43",
+    "object_repr": "Kohima",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 402,
+  "fields": {
+    "action_time": "2026-06-26T11:34:50.497Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "44",
+    "object_repr": "Gangtok",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 403,
+  "fields": {
+    "action_time": "2026-06-26T11:35:20.202Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "45",
+    "object_repr": "Agartala",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 404,
+  "fields": {
+    "action_time": "2026-06-26T14:43:58.073Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Hyderabadi Biryani",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 405,
+  "fields": {
+    "action_time": "2026-06-26T14:44:30.776Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Haleem",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 406,
+  "fields": {
+    "action_time": "2026-06-26T14:48:35.552Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Pesarattu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 407,
+  "fields": {
+    "action_time": "2026-06-26T14:49:21.558Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Gongura Pickle",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 408,
+  "fields": {
+    "action_time": "2026-06-26T14:50:31.742Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Qubani ka Meetha",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 409,
+  "fields": {
+    "action_time": "2026-06-26T14:51:55.317Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Gongura Mutton",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 410,
+  "fields": {
+    "action_time": "2026-06-26T14:54:42.547Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Pulihora",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 411,
+  "fields": {
+    "action_time": "2026-06-26T14:55:27.291Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Bobbatlu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 412,
+  "fields": {
+    "action_time": "2026-06-26T14:56:12.125Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Royyala Iguru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 413,
+  "fields": {
+    "action_time": "2026-06-26T14:56:45.790Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Pesarattu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 414,
+  "fields": {
+    "action_time": "2026-06-26T14:58:12.416Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Dal Baati Churma",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 415,
+  "fields": {
+    "action_time": "2026-06-26T14:58:45.518Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Laal Maas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 416,
+  "fields": {
+    "action_time": "2026-06-26T14:59:41.262Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "Ghevar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 417,
+  "fields": {
+    "action_time": "2026-06-26T15:00:21.268Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Ker Sangri",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 418,
+  "fields": {
+    "action_time": "2026-06-26T15:00:47.509Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "Pyaaz Kachori",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 419,
+  "fields": {
+    "action_time": "2026-06-26T15:01:29.811Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "Appam with Stew",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 420,
+  "fields": {
+    "action_time": "2026-06-26T15:02:04.560Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "Kerala Fish Curry",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 421,
+  "fields": {
+    "action_time": "2026-06-26T15:03:10.058Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "Puttu Kadala",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 422,
+  "fields": {
+    "action_time": "2026-06-26T15:04:02.770Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "19",
+    "object_repr": "Sadya",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 423,
+  "fields": {
+    "action_time": "2026-06-26T15:06:13.094Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "20",
+    "object_repr": "Kerala Prawn Curry",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 424,
+  "fields": {
+    "action_time": "2026-07-03T07:17:49.601Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "21",
+    "object_repr": "Fish Curry Rice",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 425,
+  "fields": {
+    "action_time": "2026-07-03T07:19:49.762Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "22",
+    "object_repr": "Prawn Balchao",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 426,
+  "fields": {
+    "action_time": "2026-07-03T07:21:19.858Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "23",
+    "object_repr": "Bebinca",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 427,
+  "fields": {
+    "action_time": "2026-07-03T07:21:47.560Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "24",
+    "object_repr": "Xacuti",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 428,
+  "fields": {
+    "action_time": "2026-07-03T07:23:07.856Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "25",
+    "object_repr": "Pork Vindaloo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 429,
+  "fields": {
+    "action_time": "2026-07-03T07:24:04.092Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "26",
+    "object_repr": "Dosa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 430,
+  "fields": {
+    "action_time": "2026-07-03T07:25:37.632Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "27",
+    "object_repr": "Idli Sambar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 431,
+  "fields": {
+    "action_time": "2026-07-03T07:27:52.522Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "28",
+    "object_repr": "Chettinad Chicken",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 432,
+  "fields": {
+    "action_time": "2026-07-03T07:30:11.952Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "29",
+    "object_repr": "Pongal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 433,
+  "fields": {
+    "action_time": "2026-07-03T07:30:46.184Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "30",
+    "object_repr": "Filter Coffee",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 434,
+  "fields": {
+    "action_time": "2026-07-03T07:34:22.121Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "31",
+    "object_repr": "Bisi Bele Bath",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 435,
+  "fields": {
+    "action_time": "2026-07-03T07:36:49.051Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "32",
+    "object_repr": "Mysore Pak",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 436,
+  "fields": {
+    "action_time": "2026-07-03T07:40:22.862Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "33",
+    "object_repr": "Raagi Mudde",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 437,
+  "fields": {
+    "action_time": "2026-07-03T07:41:09.038Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "34",
+    "object_repr": "Udupi Sambar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 438,
+  "fields": {
+    "action_time": "2026-07-03T07:42:59.167Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "35",
+    "object_repr": "Coorg Pork Curry",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 439,
+  "fields": {
+    "action_time": "2026-07-03T07:45:46.359Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "36",
+    "object_repr": "Dham",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 440,
+  "fields": {
+    "action_time": "2026-07-03T07:47:10.834Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "37",
+    "object_repr": "Siddu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 441,
+  "fields": {
+    "action_time": "2026-07-03T07:47:45.653Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "38",
+    "object_repr": "Chha Gosht",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 442,
+  "fields": {
+    "action_time": "2026-07-03T07:48:23.615Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "39",
+    "object_repr": "Babru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 443,
+  "fields": {
+    "action_time": "2026-07-03T07:48:59.199Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "40",
+    "object_repr": "Aktori",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 444,
+  "fields": {
+    "action_time": "2026-07-03T07:50:49.973Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Bathukamma",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 445,
+  "fields": {
+    "action_time": "2026-07-03T07:51:45.974Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Bonalu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 446,
+  "fields": {
+    "action_time": "2026-07-03T07:55:57.146Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Deccan Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 447,
+  "fields": {
+    "action_time": "2026-07-03T08:46:48.541Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Brahmostavam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 448,
+  "fields": {
+    "action_time": "2026-07-03T08:47:25.552Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Visaka Utsav",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 449,
+  "fields": {
+    "action_time": "2026-07-03T08:56:12.830Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Sankranti",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 450,
+  "fields": {
+    "action_time": "2026-07-03T08:58:52.020Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Pushkar Camel Fair",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 451,
+  "fields": {
+    "action_time": "2026-07-03T09:01:20.134Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Jaipur Literature Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 452,
+  "fields": {
+    "action_time": "2026-07-03T09:03:55.930Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Desert Festival Jaisalmer",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 453,
+  "fields": {
+    "action_time": "2026-07-03T09:04:27.728Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Onam",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 454,
+  "fields": {
+    "action_time": "2026-07-03T09:05:59.253Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Thrissur Pooram",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 455,
+  "fields": {
+    "action_time": "2026-07-03T09:06:41.513Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Goa Carnival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 456,
+  "fields": {
+    "action_time": "2026-07-03T09:07:27.578Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Sunburn Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 457,
+  "fields": {
+    "action_time": "2026-07-03T09:09:03.842Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Feast of St Francis Xavier",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 458,
+  "fields": {
+    "action_time": "2026-07-03T09:10:02.904Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Pongal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 459,
+  "fields": {
+    "action_time": "2026-07-03T09:10:39.190Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Chennai Music Season",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 460,
+  "fields": {
+    "action_time": "2026-07-03T09:11:01.321Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Mahamaham Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 461,
+  "fields": {
+    "action_time": "2026-07-03T09:11:27.220Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Mysuru Dasara",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 462,
+  "fields": {
+    "action_time": "2026-07-03T09:11:51.790Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Hampi Utsav",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 463,
+  "fields": {
+    "action_time": "2026-07-03T09:13:03.333Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "Karaga Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 464,
+  "fields": {
+    "action_time": "2026-07-03T09:14:02.059Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "Kullu Dussehra",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 465,
+  "fields": {
+    "action_time": "2026-07-03T09:14:44.215Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "Shimla Summer Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 466,
+  "fields": {
+    "action_time": "2026-07-03T09:15:12.382Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Losar Festival",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 467,
+  "fields": {
+    "action_time": "2026-07-03T09:28:24.068Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Hyderabad",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 468,
+  "fields": {
+    "action_time": "2026-07-03T09:29:14.666Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "7",
+    "object_repr": "Salar Jung Museum",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 469,
+  "fields": {
+    "action_time": "2026-07-03T11:41:16.078Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Telangana",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 470,
+  "fields": {
+    "action_time": "2026-07-03T11:42:35.409Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Haleem",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 471,
+  "fields": {
+    "action_time": "2026-07-03T11:49:38.254Z",
+    "user": 1,
+    "content_type": 16,
+    "object_id": "1",
+    "object_repr": "Telangana",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Banner image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 472,
+  "fields": {
+    "action_time": "2026-07-03T11:51:00.750Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "12",
+    "object_repr": "Tirumala Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 473,
+  "fields": {
+    "action_time": "2026-07-03T11:52:08.014Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "17",
+    "object_repr": "Kanaka Durga Temple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 474,
+  "fields": {
+    "action_time": "2026-07-03T11:54:36.807Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "33",
+    "object_repr": "Baga Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 475,
+  "fields": {
+    "action_time": "2026-07-03T11:56:21.467Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "39",
+    "object_repr": "Marina Beach",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 476,
+  "fields": {
+    "action_time": "2026-07-03T11:58:12.663Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "60",
+    "object_repr": "Darjeeling Tea Gardens",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 477,
+  "fields": {
+    "action_time": "2026-07-03T11:59:26.760Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "67",
+    "object_repr": "Kaziranga National Park",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 478,
+  "fields": {
+    "action_time": "2026-07-03T12:00:27.190Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "69",
+    "object_repr": "Haridwar Ghats",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 479,
+  "fields": {
+    "action_time": "2026-07-03T12:01:57.322Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "79",
+    "object_repr": "Tawang Monastery",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 480,
+  "fields": {
+    "action_time": "2026-07-03T12:03:04.319Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "84",
+    "object_repr": "Elephant Falls",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 481,
+  "fields": {
+    "action_time": "2026-07-03T13:31:48.902Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Laal Maas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 482,
+  "fields": {
+    "action_time": "2026-07-03T13:39:22.239Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "41",
+    "object_repr": "Dhokla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 483,
+  "fields": {
+    "action_time": "2026-07-03T13:42:11.606Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "42",
+    "object_repr": "Thepla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 484,
+  "fields": {
+    "action_time": "2026-07-03T13:43:23.668Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "43",
+    "object_repr": "Undhiyu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 485,
+  "fields": {
+    "action_time": "2026-07-03T13:54:38.354Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "44",
+    "object_repr": "Sarson da Saang",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 486,
+  "fields": {
+    "action_time": "2026-07-03T14:22:16.681Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "45",
+    "object_repr": "Makki di Roti",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 487,
+  "fields": {
+    "action_time": "2026-07-03T14:23:06.672Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "46",
+    "object_repr": "Chole Bhature",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 488,
+  "fields": {
+    "action_time": "2026-07-03T14:24:26.582Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "47",
+    "object_repr": "Macher Jhol",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 489,
+  "fields": {
+    "action_time": "2026-07-03T14:25:14.454Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "48",
+    "object_repr": "Rosgolla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 490,
+  "fields": {
+    "action_time": "2026-07-03T14:26:08.637Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "49",
+    "object_repr": "Kolkata biryani",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 491,
+  "fields": {
+    "action_time": "2026-07-03T14:27:20.968Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "50",
+    "object_repr": "Awadhi Biryani",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 492,
+  "fields": {
+    "action_time": "2026-07-03T14:28:09.391Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "51",
+    "object_repr": "Tunday Kabab",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 493,
+  "fields": {
+    "action_time": "2026-07-03T14:29:05.338Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "52",
+    "object_repr": "Petha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 494,
+  "fields": {
+    "action_time": "2026-07-03T14:30:01.631Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "53",
+    "object_repr": "Litti Chokha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 495,
+  "fields": {
+    "action_time": "2026-07-03T14:31:36.715Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "54",
+    "object_repr": "Sattu Paratha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 496,
+  "fields": {
+    "action_time": "2026-07-03T14:32:42.094Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "55",
+    "object_repr": "Khaja",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 497,
+  "fields": {
+    "action_time": "2026-07-03T14:37:52.477Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "56",
+    "object_repr": "Dalma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 498,
+  "fields": {
+    "action_time": "2026-07-03T14:40:04.777Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "57",
+    "object_repr": "Pakhala Bhata",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 499,
+  "fields": {
+    "action_time": "2026-07-03T14:41:08.304Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "58",
+    "object_repr": "Chhena Poda",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 500,
+  "fields": {
+    "action_time": "2026-07-03T14:42:17.270Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "59",
+    "object_repr": "Assamese Thali",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 501,
+  "fields": {
+    "action_time": "2026-07-03T14:43:08.651Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "60",
+    "object_repr": "Masor Tenga",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 502,
+  "fields": {
+    "action_time": "2026-07-03T14:44:11.286Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "61",
+    "object_repr": "Pitha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 503,
+  "fields": {
+    "action_time": "2026-07-03T14:45:09.983Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "62",
+    "object_repr": "Kafuli",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 504,
+  "fields": {
+    "action_time": "2026-07-03T14:46:10.176Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "63",
+    "object_repr": "Aloo Ke Gutke",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 505,
+  "fields": {
+    "action_time": "2026-07-03T14:47:27.437Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "64",
+    "object_repr": "Bhatt Ki Churkani",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 506,
+  "fields": {
+    "action_time": "2026-07-03T14:48:20.703Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "65",
+    "object_repr": "Poha",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 507,
+  "fields": {
+    "action_time": "2026-07-03T14:49:14.535Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "66",
+    "object_repr": "Bhutte Ka Kees",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 508,
+  "fields": {
+    "action_time": "2026-07-03T14:52:55.863Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "67",
+    "object_repr": "Dal Bafla",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 509,
+  "fields": {
+    "action_time": "2026-07-03T14:53:48.005Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "68",
+    "object_repr": "Dhuska",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 510,
+  "fields": {
+    "action_time": "2026-07-03T14:54:38.201Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "69",
+    "object_repr": "Rugra",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 511,
+  "fields": {
+    "action_time": "2026-07-03T14:57:18.919Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "70",
+    "object_repr": "Tilkut",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 512,
+  "fields": {
+    "action_time": "2026-07-03T15:00:22.470Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "71",
+    "object_repr": "Chila",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 513,
+  "fields": {
+    "action_time": "2026-07-03T15:01:02.367Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "72",
+    "object_repr": "Faraa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 514,
+  "fields": {
+    "action_time": "2026-07-03T15:01:56.711Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "73",
+    "object_repr": "Bafauri",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 515,
+  "fields": {
+    "action_time": "2026-07-03T15:03:10.583Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "74",
+    "object_repr": "bajra Khichidi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 516,
+  "fields": {
+    "action_time": "2026-07-03T15:04:15.078Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "75",
+    "object_repr": "Kachri Ki Sabzi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 517,
+  "fields": {
+    "action_time": "2026-07-03T15:05:09.009Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "76",
+    "object_repr": "Mixed dal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 518,
+  "fields": {
+    "action_time": "2026-07-03T15:06:47.155Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "77",
+    "object_repr": "Thupka",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 519,
+  "fields": {
+    "action_time": "2026-07-03T15:07:22.911Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "78",
+    "object_repr": "Momos",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 520,
+  "fields": {
+    "action_time": "2026-07-03T15:08:29.525Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "79",
+    "object_repr": "Zan",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 521,
+  "fields": {
+    "action_time": "2026-07-03T15:09:12.523Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "80",
+    "object_repr": "Eromba",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 522,
+  "fields": {
+    "action_time": "2026-07-03T15:09:51.946Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "81",
+    "object_repr": "Chamthong",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 523,
+  "fields": {
+    "action_time": "2026-07-03T15:10:40.510Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "82",
+    "object_repr": "Singju",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 524,
+  "fields": {
+    "action_time": "2026-07-03T15:11:45.257Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "83",
+    "object_repr": "Bai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 525,
+  "fields": {
+    "action_time": "2026-07-03T15:12:35.597Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "84",
+    "object_repr": "Sawhchiar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 526,
+  "fields": {
+    "action_time": "2026-07-03T15:13:24.468Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "85",
+    "object_repr": "Vawksa rep",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 527,
+  "fields": {
+    "action_time": "2026-07-10T13:04:40.944Z",
+    "user": 1,
+    "content_type": 14,
+    "object_id": "3",
+    "object_repr": "Charminar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 528,
+  "fields": {
+    "action_time": "2026-07-10T15:08:01.845Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "86",
+    "object_repr": "Smoked Pork with Bamboo Shoot",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 529,
+  "fields": {
+    "action_time": "2026-07-10T15:09:38.952Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "87",
+    "object_repr": "Axone",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 530,
+  "fields": {
+    "action_time": "2026-07-10T15:11:09.719Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "88",
+    "object_repr": "Galho",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 531,
+  "fields": {
+    "action_time": "2026-07-10T15:17:14.556Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "89",
+    "object_repr": "Vada Pav",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 532,
+  "fields": {
+    "action_time": "2026-07-10T15:18:52.213Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "90",
+    "object_repr": "Misal Pav",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 533,
+  "fields": {
+    "action_time": "2026-07-10T15:20:16.990Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "91",
+    "object_repr": "Pav Bhaji",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 534,
+  "fields": {
+    "action_time": "2026-07-10T15:23:15.536Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "92",
+    "object_repr": "Jadoh",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 535,
+  "fields": {
+    "action_time": "2026-07-10T15:25:42.727Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "93",
+    "object_repr": "Dohneiiong",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 536,
+  "fields": {
+    "action_time": "2026-07-10T15:27:36.023Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "94",
+    "object_repr": "Tungrymbai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 537,
+  "fields": {
+    "action_time": "2026-07-10T15:28:27.269Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "95",
+    "object_repr": "Momos",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 538,
+  "fields": {
+    "action_time": "2026-07-10T15:29:19.218Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "96",
+    "object_repr": "Thupka",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 539,
+  "fields": {
+    "action_time": "2026-07-10T15:30:48.679Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "97",
+    "object_repr": "Phagshapa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 540,
+  "fields": {
+    "action_time": "2026-07-10T15:58:57.907Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "98",
+    "object_repr": "Mui Borok",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 541,
+  "fields": {
+    "action_time": "2026-07-10T16:00:05.886Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "99",
+    "object_repr": "Cakhwi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 542,
+  "fields": {
+    "action_time": "2026-07-10T16:01:06.959Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "99",
+    "object_repr": "Chakhwi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 543,
+  "fields": {
+    "action_time": "2026-07-10T16:03:42.917Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "100",
+    "object_repr": "Mosdeng serma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 3,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 3,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 3,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 3,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 2,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 2,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 2,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 2,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 15,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 15,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 15,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 15,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add event",
+    "content_type": 8,
+    "codename": "add_event"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change event",
+    "content_type": 8,
+    "codename": "change_event"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete event",
+    "content_type": 8,
+    "codename": "delete_event"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view event",
+    "content_type": 8,
+    "codename": "view_event"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add itinerary",
+    "content_type": 11,
+    "codename": "add_itinerary"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change itinerary",
+    "content_type": 11,
+    "codename": "change_itinerary"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete itinerary",
+    "content_type": 11,
+    "codename": "delete_itinerary"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view itinerary",
+    "content_type": 11,
+    "codename": "view_itinerary"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add itinerary day",
+    "content_type": 12,
+    "codename": "add_itineraryday"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change itinerary day",
+    "content_type": 12,
+    "codename": "change_itineraryday"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete itinerary day",
+    "content_type": 12,
+    "codename": "delete_itineraryday"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view itinerary day",
+    "content_type": 12,
+    "codename": "view_itineraryday"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add hotel",
+    "content_type": 10,
+    "codename": "add_hotel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change hotel",
+    "content_type": 10,
+    "codename": "change_hotel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete hotel",
+    "content_type": 10,
+    "codename": "delete_hotel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view hotel",
+    "content_type": 10,
+    "codename": "view_hotel"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add food",
+    "content_type": 9,
+    "codename": "add_food"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change food",
+    "content_type": 9,
+    "codename": "change_food"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete food",
+    "content_type": 9,
+    "codename": "delete_food"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view food",
+    "content_type": 9,
+    "codename": "view_food"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add place",
+    "content_type": 14,
+    "codename": "add_place"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change place",
+    "content_type": 14,
+    "codename": "change_place"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete place",
+    "content_type": 14,
+    "codename": "delete_place"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view place",
+    "content_type": 14,
+    "codename": "view_place"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 53,
+  "fields": {
+    "name": "Can add state",
+    "content_type": 16,
+    "codename": "add_state"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 54,
+  "fields": {
+    "name": "Can change state",
+    "content_type": 16,
+    "codename": "change_state"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 55,
+  "fields": {
+    "name": "Can delete state",
+    "content_type": 16,
+    "codename": "delete_state"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 56,
+  "fields": {
+    "name": "Can view state",
+    "content_type": 16,
+    "codename": "view_state"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 57,
+  "fields": {
+    "name": "Can add itinerary stop",
+    "content_type": 13,
+    "codename": "add_itinerarystop"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 58,
+  "fields": {
+    "name": "Can change itinerary stop",
+    "content_type": 13,
+    "codename": "change_itinerarystop"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 59,
+  "fields": {
+    "name": "Can delete itinerary stop",
+    "content_type": 13,
+    "codename": "delete_itinerarystop"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 60,
+  "fields": {
+    "name": "Can view itinerary stop",
+    "content_type": 13,
+    "codename": "view_itinerarystop"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 61,
+  "fields": {
+    "name": "Can add city",
+    "content_type": 7,
+    "codename": "add_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 62,
+  "fields": {
+    "name": "Can change city",
+    "content_type": 7,
+    "codename": "change_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 63,
+  "fields": {
+    "name": "Can delete city",
+    "content_type": 7,
+    "codename": "delete_city"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 64,
+  "fields": {
+    "name": "Can view city",
+    "content_type": 7,
+    "codename": "view_city"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$D7rRueiqh7lo3qqUsxmjaC$I3XU6ajEKbjCJ7f6Vh6DX3W795nrIboJSwZyw1ygBhI=",
+    "last_login": "2026-07-10T12:58:18.870Z",
+    "is_superuser": true,
+    "username": "uma_kambampati",
+    "first_name": "",
+    "last_name": "",
+    "email": "kambampatiumamaheshwari@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-06-02T14:01:13.331Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$PLW5zWX7ETGVRUeCYJVXJ3$k3LulKKuODVZp+YwSi+hAn8Mu4q37YeWjVxZBibUwBw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "testuser",
+    "first_name": "",
+    "last_name": "",
+    "email": "test@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-07-09T12:02:00.758Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "api",
+    "model": "city"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "api",
+    "model": "event"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "api",
+    "model": "food"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "api",
+    "model": "hotel"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "api",
+    "model": "itinerary"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "api",
+    "model": "itineraryday"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "api",
+    "model": "itinerarystop"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 14,
+  "fields": {
+    "app_label": "api",
+    "model": "place"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 15,
+  "fields": {
+    "app_label": "api",
+    "model": "review"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 16,
+  "fields": {
+    "app_label": "api",
+    "model": "state"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jq6kz7oyojby4fxg7hafer29queutwu9",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxP6ak5wzWenfBAWRLcVIh7k4ipYD2zcx7iwTrUtLaeU4TibNQ4vS7ZcAn1x3QA-q9SWx1macsd0UetMtrI35dDvfvoEAvWz2C1oZ8UOgHBmKTHeabJQjRBnLessLRIrJRftDWocsxRGZnzKaDFp8v8q44XQ:1wclTr:7dlkPHuC3O-V2oSBWNshSAzY4rouDYLp9DdplXBOQ4Q",
+    "expire_date": "2026-07-09T14:55:03.361Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "mx5663xlvxgm068vlx7la4bwfq4c41he",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxP6ak5wzWenfBAWRLcVIh7k4ipYD2zcx7iwTrUtLaeU4TibNQ4vS7ZcAn1x3QA-q9SWx1macsd0UetMtrI35dDvfvoEAvWz2C1oZ8UOgHBmKTHeabJQjRBnLessLRIrJRftDWocsxRGZnzKaDFp8v8q44XQ:1wclTp:xZsO57lT0lQUdA2yAomzbJrEmx5EdrNX18Us9HvvNA0",
+    "expire_date": "2026-07-09T14:55:01.918Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "pbfsoq1l9eqcyvi2vihu5xurpohs97pb",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxP6ak5wzWenfBAWRLcVIh7k4ipYD2zcx7iwTrUtLaeU4TibNQ4vS7ZcAn1x3QA-q9SWx1macsd0UetMtrI35dDvfvoEAvWz2C1oZ8UOgHBmKTHeabJQjRBnLessLRIrJRftDWocsxRGZnzKaDFp8v8q44XQ:1wiAo7:-SjtGHFsH8OO1RHoLFegDj91il4bf6CVtnh7IJUy4No",
+    "expire_date": "2026-07-24T12:58:19.378Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vujbb4j04bytq831xlthu655li8hocjj",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnxP6ak5wzWenfBAWRLcVIh7k4ipYD2zcx7iwTrUtLaeU4TibNQ4vS7ZcAn1x3QA-q9SWx1macsd0UetMtrI35dDvfvoEAvWz2C1oZ8UOgHBmKTHeabJQjRBnLessLRIrJRftDWocsxRGZnzKaDFp8v8q44XQ:1wUPi4:Izikjru0xAzCqeLXFc9PpPgtIQ-lfDFNsCOI7g8haYc",
+    "expire_date": "2026-06-16T14:03:12.330Z"
+  }
+},
+{
   "model": "api.state",
   "pk": 1,
   "fields": {

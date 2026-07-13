@@ -1,14 +1,14 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import HomePage from './pages/HomePage'
-import StatePage from './pages/StatePage'
-import PlacePage from './pages/PlacePage'
+import HomePage from './pages/homepage'
+import StatePage from './pages/Statepage'
+import PlacePage from './pages/placepage'
 import SearchPage from './pages/SearchPage'
 import TripPlannerPage from './pages/TripPlanner'
 import RegisterPage from './pages/RegisterPage'
 import LoginPage from './pages/LoginPage'
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
-import AIChatPage from './pages/AIChatPage'
+import Navbar from './components/navbar'
+import Footer from './components/footer'
+import AIChatPage from './pages/AiChatPage'
 
 function App() {
   return (

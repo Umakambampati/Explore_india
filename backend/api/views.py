@@ -14,7 +14,7 @@ from rest_framework.permissions import IsAuthenticated
 
 
 class StateListView(generics.ListAPIView):
-    queryset = State.objects.all()
+    queryset = State.objects.all().order_by('id')
     serializer_class = StateSerializer
 
 class StateDetailView(generics.RetrieveAPIView):

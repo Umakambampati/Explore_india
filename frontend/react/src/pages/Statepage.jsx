@@ -50,7 +50,7 @@ function StatePage() {
                   <img
                     src={place.image}
                     alt={place.name}
-                    className="w-full h-36 object-cover"
+                    className="w-full h-52 object-cover"
                   />
                 )}
                 <div className="p-4">

@@ -56,7 +56,7 @@ function PlacePage() {
         <img
           src={place.image}
           alt={place.name}
-          className="w-full h-80 object-cover rounded-2xl mb-8"
+          className="w-full h-72 object-cover rounded-xl mb-8"
         />
       )}
 

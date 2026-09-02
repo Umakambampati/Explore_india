@@ -81,7 +81,6 @@ WSGI_APPLICATION = 'core.wsgi.application'
 import os
 
 if os.getenv('RENDER'):
-    # Production — PostgreSQL on Render
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
@@ -90,6 +89,9 @@ if os.getenv('RENDER'):
             'PASSWORD': os.getenv('DB_PASSWORD'),
             'HOST': os.getenv('DB_HOST'),
             'PORT': os.getenv('DB_PORT', '5432'),
+            'OPTIONS': {
+                'sslmode': 'require',
+            },
         }
     }
 else:

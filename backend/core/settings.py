@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/6.0/ref/settings/
 from dotenv import load_dotenv
 import os
 load_dotenv()
+
+
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -97,6 +99,7 @@ if os.getenv('RENDER'):
 else:
     # Local — MySQL
     DATABASES = {
+        
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': os.getenv('DB_NAME'),

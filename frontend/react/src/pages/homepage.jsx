@@ -21,7 +21,7 @@ function HomePage() {
           Discover <span className="text-orange-500">Incredible India</span>
         </h1>
         <p className="text-gray-500 mt-3 text-lg">
-          Explore 28 states · 500+ destinations · Local food · Festivals
+           28 States · Famous Destinations · Traditional Foods · Cultural Festivals
         </p>
       </section>
 
